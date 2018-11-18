@@ -12,7 +12,7 @@ We work using Scrum methodology in sync with Agile movement. During downtimes of
 
 We make our money on consulting projects. Those projects start with sales and go through a normal flow of designing, developing, shipping, monitoring, and iterating. We should do such a good job for our clients that they will want to poach us, and be such a great place to work that we can be confident our teammates won't leave.
 
-## Investment
+## Investment Time
 
 Investment time is time for investment in ourselves, our company, and our community. Primarily this means doing something that interests us like learning a new programming language, contributing to open source, discussing interesting things, attending community events, or reading an educational book. The goal is to encourage individuals to improve and share their knowledge with the rest of the team.
 
