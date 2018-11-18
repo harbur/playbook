@@ -26,9 +26,13 @@ Below you'll find the Table of Contents:
   * Design
 * [Guiding Principles]
 * [Code of Ethics]
+* [Vacations & Holidays]
+  * Vacations
+  * Holidays
 
 [About]: docs/about
 [Onboarding]: docs/onboarding
 [Guiding Principles]: docs/guiding-principles
 [How we Work]: docs/how-we-work
 [Code of Ethics]: docs/code-of-ethics
+[Vacations & Holidays]: docs/vacations
