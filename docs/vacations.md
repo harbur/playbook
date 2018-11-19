@@ -11,7 +11,7 @@ To request vacations fill out the [Vacations Form]. Once a request is sent you'l
 
 ## Holidays
 
-The following 13 days are [Public Holidays 2018] in Catalonia:
+The following 15 days are [Public Holidays 2018] in Catalonia:
 
 * 1 de Enero. Año nuevo
 * 6 de Enero. Epifanía del Señor
@@ -29,7 +29,7 @@ The following 13 days are [Public Holidays 2018] in Catalonia:
 * 25 de Diciembre. Navidad
 * 26 de Diciembre. Sant Esteve
 
-The following days are [Public Holidays 2019] in Catalonia:
+The following 14 days are [Public Holidays 2019] in Catalonia:
 
 * 1 de Enero.Año nuevo
 * 19 de Abril. Viernes Santo
