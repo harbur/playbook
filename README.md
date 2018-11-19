@@ -30,9 +30,9 @@ Below you'll find the Table of Contents:
   * Vacations
   * Holidays
 
-[About]: docs/about
-[Onboarding]: docs/onboarding
-[Guiding Principles]: docs/guiding-principles
-[How we Work]: docs/how-we-work
-[Code of Ethics]: docs/code-of-ethics
+[About]: docs/about.md
+[Onboarding]: docs/onboarding.md
+[Guiding Principles]: docs/guiding-principles.md
+[How we Work]: docs/how-we-work.md
+[Code of Ethics]: docs/code-of-ethics.md
 [Vacations & Holidays]: docs/vacations.md
