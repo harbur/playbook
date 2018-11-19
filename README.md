@@ -35,4 +35,4 @@ Below you'll find the Table of Contents:
 [Guiding Principles]: docs/guiding-principles
 [How we Work]: docs/how-we-work
 [Code of Ethics]: docs/code-of-ethics
-[Vacations & Holidays]: docs/vacations
+[Vacations & Holidays]: docs/vacations.md
