@@ -29,6 +29,7 @@ Below you'll find the Table of Contents:
 * [Vacations & Holidays]
   * Vacations
   * Holidays
+* [Personal Growth]
 
 [About]: docs/about.md
 [Onboarding]: docs/onboarding.md
@@ -36,3 +37,4 @@ Below you'll find the Table of Contents:
 [How we Work]: docs/how-we-work.md
 [Code of Ethics]: docs/code-of-ethics.md
 [Vacations & Holidays]: docs/vacations.md
+[Personal Growth]: docs/personal-growth.md
