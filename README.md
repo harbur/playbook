@@ -4,31 +4,12 @@ This is Harbur's Playbook.
 
 Below you'll find the Table of Contents:
 
-* [About]
-  * Company Info
-  * Logo
-  * Company Description
-  * Our Mission
-* [Onboarding]
-  * Account
-  * Laptop
-  * Dotfiles
-  * Text Editor
-  * Planning
-  * Developing
-  * Blogging
-* [How we Work]
-  * Language
-  * Time
-  * Consulting
-  * Investment Time
-  * Leads
-  * Design
+* [About] (Company Info, Logo, Company Description, Our Mission)
+* [Onboarding] (Account, Laptop, Dotfiles, Text Editor, Planning, Developing, Blogging)
+* [How we Work] (Language, Time, Consulting, Investment Time, Leads, Design)
 * [Guiding Principles]
 * [Code of Ethics]
-* [Vacations & Holidays]
-  * Vacations
-  * Holidays
+* [Vacations & Holidays] (Vacations, Holidays)
 * [Personal Growth]
 
 [About]: docs/about.md
