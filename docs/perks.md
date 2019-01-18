@@ -1,6 +1,6 @@
 # Employees Perks
 
-## Personal Growth
+## Personal Growth Budget
 
 Each person gets a annual budget for personal growth.
 
