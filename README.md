@@ -9,13 +9,11 @@ Below you'll find the Table of Contents:
 * [How we Work] (Language, Time, Consulting, Investment Time, Leads, Design)
 * [Guiding Principles]
 * [Code of Ethics]
-* [Vacations & Holidays] (Vacations, Holidays)
-* [Personal Growth]
+* [Employee Perks] (Personal Growth Budget, Vacations, Holidays)
 
 [About]: docs/about.md
 [Onboarding]: docs/onboarding.md
 [Guiding Principles]: docs/guiding-principles.md
 [How we Work]: docs/how-we-work.md
 [Code of Ethics]: docs/code-of-ethics.md
-[Vacations & Holidays]: docs/vacations.md
-[Personal Growth]: docs/personal-growth.md
+[Employees Perks]: docs/perks.md
