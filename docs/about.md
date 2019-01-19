@@ -1,6 +1,6 @@
 # About
 
-## Company Info
+## Company
 
 The Company Legal Name is `Harbur Cloud Solutions S.L.U.` with CIF `B66473513` and DUNS `466156830`. The HQ address is `Calle Escorial 12 4 1 08024 Barcelona Catalunya Spain`.
 
