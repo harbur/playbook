@@ -4,12 +4,12 @@ This is Harbur's Playbook.
 
 Below you'll find the Table of Contents:
 
-* [About]: [Company] | [Logo] | [Description] | [Mission]
-* [Onboarding]: [Account] | [Laptop] | [Dotfiles] | [Text Editor] | [Planning] | [Developing] | [Blogging]
-* [How we Work]: [Language] | [Time] | [Consulting] | [Investment Time] | [Leads] | [Design]
+* [About]: [Company] / [Logo] / [Description] / [Mission]
+* [Onboarding]: [Account] / [Laptop] / [Dotfiles] / [Text Editor] / [Planning] / [Developing] / [Blogging]
+* [How we Work]: [Language] / [Time] / [Consulting] / [Investment Time] / [Leads] / [Design]
 * [Guiding Principles]
 * [Code of Ethics]
-* [Perks]: [Personal Growth Budget] | [Vacations] | [Holidays]
+* [Perks]: [Personal Growth Budget] / [Vacations] / [Holidays]
 
 [About]: docs/about.md
   [Company]: docs/about.md#company
