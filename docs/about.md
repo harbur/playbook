@@ -54,16 +54,16 @@ The Company Legal Name is `Harbur Cloud Solutions S.L.U.` with CIF `B66473513` a
 [white-592x120]: https://harbur.io/logo/White/LogoText/Harbur-592x120.png
 [white-1676x340]: https://harbur.io/logo/White/LogoText/Harbur-1676x340.png
 
-## Company Description
+## Description
 
 > Company Claim:
 
 Modernizing Software Delivery
 
-### Company Description - Short:
+### Description - Short:
 
 We help modernize enterprise development workflows focusing on containers as first-class citizens.
-### Company Description - Long:
+### Description - Long:
 
 Harbur is a consulting firm based in Barcelona. We help companies design & implement highly scalable and self healing solutions empowered by the best-of-breed Container, Cloud and Automation technologies. We also help in introducing and implementing Agile, DevOps, Microservices and Continuous Delivery practices and provide training to the client's teams for the adoption of the technologies.
 
@@ -71,7 +71,7 @@ En Castellano:
 
 Harbur es una consultoría basada en Barcelona. Ayudamos empresas diseñar e implementar escalable e autogestionadas soluciones usando las últimas tecnologías de contenedores, cloud y automatización. También introducimos implementación de Agile, DevOps, Microservices y Continuous Delivery e proporcionamos entrenamiento en el equipo del cliente para la adopción de las tecnologías.
 
-## Our Mission
+## Mission
 
 We want to be the experts in training, designing and maintenance of container solutions in Spain.
 
