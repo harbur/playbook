@@ -23,6 +23,7 @@ Below you'll find the Table of Contents:
   [Dotfiles]: docs/onboarding.md#dotfiles
   [Text Editor]: docs/onboarding.md#text-editor
   [Planning]: docs/onboarding.md#planning
+  [Developing]: docs/onboarding.md#developing
   [Blogging]: docs/onboarding.md#blogging
 [Guiding Principles]: docs/guiding-principles.md
 [How we Work]: docs/how-we-work.md
