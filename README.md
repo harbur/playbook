@@ -6,7 +6,7 @@ Below you'll find the Table of Contents:
 
 * [About] ([Company] | [Logo] | [Description] | [Mission])
 * [Onboarding] ([Account] | [Laptop] | [Dotfiles] | [Text Editor] | [Planning] | [Developing] | [Blogging])
-* [How we Work] (Language, Time, Consulting, Investment Time, Leads, Design)
+* [How we Work] ([Language] | [Time] | [Consulting] | [Investment Time] | [Leads] | [Design])
 * [Guiding Principles]
 * [Code of Ethics]
 * [Perks] (Personal Growth Budget, Vacations, Holidays)
@@ -25,7 +25,13 @@ Below you'll find the Table of Contents:
   [Planning]: docs/onboarding.md#planning
   [Developing]: docs/onboarding.md#developing
   [Blogging]: docs/onboarding.md#blogging
-[Guiding Principles]: docs/guiding-principles.md
 [How we Work]: docs/how-we-work.md
+  [Language]: docs/how-we-work.md#language
+  [Time]: docs/how-we-work.md#time
+  [Consulting]: docs/how-we-work.md#consulting
+  [Investment Time]: docs/how-we-work.md#investment-time
+  [Leads]: docs/how-we-work.md#leads
+  [Design]: docs/how-we-work.md#design
+[Guiding Principles]: docs/guiding-principles.md
 [Code of Ethics]: docs/code-of-ethics.md
 [Perks]: docs/perks.md
