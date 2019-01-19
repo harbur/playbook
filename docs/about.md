@@ -8,6 +8,8 @@ The Company Legal Name is `Harbur Cloud Solutions S.L.U.` with CIF `B66473513` a
 
 > Logo
 
+![color-40x40]
+
 | Color Mode | 40x40         | 70x70         | 120x120         | 340x340         |
 | ---------- | ------------- | ------------- | --------------- | --------------- |
 | Color      | [color-40x40] | [color-70x70] | [color-120x120] | [color-340x340] |
@@ -28,6 +30,8 @@ The Company Legal Name is `Harbur Cloud Solutions S.L.U.` with CIF `B66473513` a
 [white-340x340]: https://harbur.io/logo/White/Logo/Harbur-340x340.png
 
 > Logo + Text
+
+![color-197x40]
 
 | Color Mode | 197x40         | 345x70         | 592x120         | 1676x340         |
 | ---------- | -------------- | -------------- | --------------- | ---------------- |
