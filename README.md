@@ -4,7 +4,7 @@ This is Harbur's Playbook.
 
 Below you'll find the Table of Contents:
 
-* [About] ([Company], Logo, Company Description, Our Mission)
+* [About] ([Company] | [Logo] | [Description] | [Mission])
 * [Onboarding] (Account, Laptop, Dotfiles, Text Editor, Planning, Developing, Blogging)
 * [How we Work] (Language, Time, Consulting, Investment Time, Leads, Design)
 * [Guiding Principles]
@@ -13,6 +13,9 @@ Below you'll find the Table of Contents:
 
 [About]: docs/about.md
   [Company]: docs/about.md#company
+  [Logo]: docs/about.md#logo
+  [Description]: docs/about.md#description
+  [Mission]: docs/about.md#mission
 
 [Onboarding]: docs/onboarding.md
 [Guiding Principles]: docs/guiding-principles.md
