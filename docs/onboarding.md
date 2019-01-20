@@ -73,11 +73,10 @@ The cards in the Live (Week of [date]) lists have been released. Each week has i
 
 ### Version Control
 
-For version control we use [Git], for hosting the repositories we use for public repos [GitHub] and for private repos [BitBucket].
+For version control we use [Git], for hosting the repositories we use [GitHub].
 
 [Git]: https://git-scm.com/
 [GitHub]: http://github.com/harbur
-[BitBucket]: https://bitbucket.org/harbur/
 
 ### Technologies
 
