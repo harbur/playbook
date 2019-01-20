@@ -7,17 +7,13 @@ To get started quickly and get a unified working environment between teammates w
 When starting you will be assigned to a tutor, the tutor will:
 
 * Create a [Google Apps] email account.
-* Add your account to [Trello] Teams.
-* Add your account to [Slack] Team.
 * Invite your Git account to [GitHub] Team.
-* Add your account to [BitBucket] Team.
+* Add your account to [Slack] Team.
 * Invite your [Medium] account to *Harbur Cloud Solutions* Publications.
 
 [Google Apps]: https://admin.google.com/harbur.io/AdminHome
-[Trello]: https://trello.com
 [Slack]: https://harbur.slack.com
 [GitHub]: https://github.com/harbur/
-[BitBucket]: https://bitbucket.org/harbur/
 [Medium]: https://medium.com/
 
 ## Laptop
