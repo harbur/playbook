@@ -114,7 +114,7 @@ The following is a list of Supporting technologies we've used and integrated:
 * Redis
 
 [Docker]: https://docker.com
-[Kubrnetes]: https://kubernetes.io
+[Kubernetes]: https://kubernetes.io
 [AWS]: https://aws.amazon.com
 [GCP]: https://cloud.google.com
 
