@@ -117,27 +117,3 @@ The following is a list of Supporting technologies we've used and integrated:
 [Kubernetes]: https://kubernetes.io
 [AWS]: https://aws.amazon.com
 [GCP]: https://cloud.google.com
-
-### How to promote
-
-Great! You've just published a new post. Now what? How do we lead the Internet to read your awesome post? Well, here are some steps on the different social networks:
-
-* [LinkedIn Groups] (Quick announcement-style format)
-  * Docker Users
-  * Enterprise Docker
-  * DockerCon Network
-  * Docker en Español
-  * Docker Spain
-  * Continuous Integration
-* Slack Groups (Informal look-what-we-posted format)
-  * DockerBCN
-  * DockerCommunity
-  * Kubernetes
-* Twitter
-  * Publish on Twitter with @harburio account using the related hash / keywords
-  * Mention @docker if it's docker related
-  * Mention @kubernetesio
-* Community Meetings
-  * Kubernetes Community Meetings
-
-[LinkedIn Groups]: https://www.linkedin.com/groups/
