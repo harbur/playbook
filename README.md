@@ -5,7 +5,7 @@ This is Harbur's Playbook.
 Below you'll find the Table of Contents:
 
 * [About]: [Company] / [Logo] / [Description] / [Mission]
-* [Onboarding]: [Account] / [Laptop] / [Dotfiles] / [Text Editor] / [Planning] / [Developing] / [Blogging]
+* [Onboarding]: [Account] / [Laptop] / [Text Editor] / [Planning] / [Developing] / [Blogging]
 * [How we Work]: [Language] / [Time] / [Consulting] / [Investment Time] / [Leads] / [Design]
 * [Guiding Principles]
 * [Code of Ethics]
@@ -20,7 +20,6 @@ Below you'll find the Table of Contents:
 [Onboarding]: docs/onboarding.md
   [Account]: docs/onboarding.md#account
   [Laptop]: docs/onboarding.md#laptop
-  [Dotfiles]: docs/onboarding.md#dotfiles
   [Text Editor]: docs/onboarding.md#text-editor
   [Planning]: docs/onboarding.md#planning
   [Developing]: docs/onboarding.md#developing
