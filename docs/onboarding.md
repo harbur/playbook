@@ -30,9 +30,11 @@ We use [VS Code] as a preferred text editor because it is open-source, extensibl
 
 [VS Code]: https://code.visualstudio.com/
 
-## Planning
+<!-- Planning is out-of-date. Pending to be reviewed
 
-### Tasks
+`## Planning
+
+`### Tasks
 
 We have used JIRA, Pivotal Tracker, Lighthouse, Basecamp, Trajectory, Unfuddle, and other task management systems over the years. The following section details a process using Trello but the overall process remains relatively similar across different systems.
 
@@ -68,6 +70,8 @@ The cards in the Ready for Production list include cards that have been accepted
 There is no bottleneck for releasing to production: everyone can do it.
 
 The cards in the Live (Week of [date]) lists have been released. Each week has its own Live list so we can follow what got released when.
+
+-->
 
 ## Developing
 
