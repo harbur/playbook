@@ -5,7 +5,7 @@ This is Harbur's Playbook.
 Below you'll find the Table of Contents:
 
 * [About]: [Company] / [Logo] / [Description]
-* [Onboarding]: [Account] / [Laptop] / [Text Editor] / [Planning] / [Developing] / [Blogging]
+* [Onboarding]: [Account] / [Laptop] / [Text Editor] / [Developing] / [Blogging]
 * [How we Work]: [Language] / [Time] / [Consulting] / [Investment Time] / [Leads] / [Design]
 * [Values]: [Mission] / [Guiding Principles] / [Code of Ethics]
 * [Perks]: [Personal Growth Budget] / [Vacations] / [Holidays]
