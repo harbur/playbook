@@ -91,15 +91,6 @@ For version control we use [Git], for hosting the repositories we use for public
 [GitHub]: http://github.com/harbur
 [BitBucket]: https://bitbucket.org/harbur/
 
-## Blogging
-
-We love to share the projects we do at Harbur, both open source and work for clients. One way to do it is in our [blog].
-
-The Harbur's blog platform is [Medium]. You'll be given access to be able to publish.
-
-[blog]: https://blog.harbur.io
-[medium]: https://medium.com
-
 ### Technologies
 
 The following is a list of the Core technologies we support:
@@ -117,3 +108,12 @@ The following is a list of Supporting technologies we've used and integrated:
 [Kubernetes]: https://kubernetes.io
 [AWS]: https://aws.amazon.com
 [GCP]: https://cloud.google.com
+
+## Blogging
+
+We love to share the projects we do at Harbur, both open source and work for clients. One way to do it is in our [blog].
+
+The Harbur's blog platform is [Medium]. You'll be given access to be able to publish.
+
+[blog]: https://blog.harbur.io
+[medium]: https://medium.com
