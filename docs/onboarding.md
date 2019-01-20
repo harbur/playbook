@@ -97,7 +97,7 @@ We love to share the projects we do at Harbur, both open source and work for cli
 
 The Harbur's blog platform is [Medium]. You'll be given access to be able to publish.
 
-[blog]: blog.harbur.io
+[blog]: https://blog.harbur.io
 [medium]: https://medium.com
 
 ### Technologies
