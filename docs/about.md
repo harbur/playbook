@@ -70,14 +70,3 @@ Harbur is a consulting firm based in Barcelona. We help companies design & imple
 En Castellano:
 
 Harbur es una consultoría basada en Barcelona. Ayudamos empresas diseñar e implementar escalable e autogestionadas soluciones usando las últimas tecnologías de contenedores, cloud y automatización. También introducimos implementación de Agile, DevOps, Microservices y Continuous Delivery e proporcionamos entrenamiento en el equipo del cliente para la adopción de las tecnologías.
-
-## Mission
-
-We want to be the experts in training, designing and maintenance of container solutions in Spain.
-
-### Our Values
-
-* Quality
-* Transparency
-* Simplicity
-* Innovation
