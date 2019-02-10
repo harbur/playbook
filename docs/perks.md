@@ -24,7 +24,14 @@ Each person gets **23 days** annually of vacations which you can start using aft
 To request vacations fill out the [Vacations Form]. Once a request is sent you'll receive an email with confirmation for the vacations. You can check here the status of the [Vacations].
 
 [Vacations Form]: https://goo.gl/forms/oI4sFH0Ee6IG8xvc2
-[Vacations]: https://docs.google.com/spreadsheets/d/16qyZmAN360s9ozVPCFWm3cqhk9lMLnZ61u9s6-_NfyA/edit?usp=sharing
+[Vacations]: https://docs.google.com/spreadsheets/d/16qyZmAN360s9ozVPCFWm3cqhk9lMLnZ61u9s6-_NfyA
+
+## Sick Leaves
+
+In case of a sick leave fill out the [Sick Leaves Form] when you recover to track the days.
+
+[Sick Leaves Form]: https://goo.gl/forms/bXRQkDR5H0dhproA3
+[Sick Leaves]: https://docs.google.com/spreadsheets/d/1BMY2SQlP_oi2X6jrw4V4iuHtwlX36MwEiEdCLhLoiZo
 
 ## Holidays
 
