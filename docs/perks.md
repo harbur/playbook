@@ -28,7 +28,7 @@ To request vacations fill out the [Vacations Form]. Once a request is sent you'l
 
 ## Sick Leaves
 
-In case of a sick leave fill out the [Sick Leaves Form] when you recover to track the days.
+In case of a sick leave fill out the [Sick Leaves Form] when you recover to register the days.
 
 [Sick Leaves Form]: https://goo.gl/forms/bXRQkDR5H0dhproA3
 [Sick Leaves]: https://docs.google.com/spreadsheets/d/1BMY2SQlP_oi2X6jrw4V4iuHtwlX36MwEiEdCLhLoiZo
