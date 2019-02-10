@@ -8,7 +8,7 @@ Below you'll find the Table of Contents:
 * 🏄 [Onboarding]: [Account] / [Laptop] / [Text Editor] / [Developing] / [Blogging]
 * 💻 [How we Work]: [Language] / [Time] / [Consulting] / [Investment Time] / [Leads] / [Design]
 * 🎯 [Values]: [Mission] / [Guiding Principles] / [Code of Ethics]
-* 🏖️ [Perks]: [Personal Growth Budget] / [Vacations] / [Holidays]
+* 🏖️ [Perks]: [Personal Growth Budget] / [Vacations] / [Sick Leaves] / [Holidays]
 
 [About]: docs/about.md
   [Company]: docs/about.md#company
@@ -39,4 +39,5 @@ Below you'll find the Table of Contents:
 [Perks]: docs/perks.md
   [Personal Growth Budget]: docs/perks.md#personal-growth-budget
   [Vacations]: docs/perks.md#vacations
+  [Sick Leaves]: docs/perks.md#sick-leaves
   [Holidays]: docs/perks.md#holidays
