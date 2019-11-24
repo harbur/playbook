@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Vacations & Holidays
 
 ## Vacations

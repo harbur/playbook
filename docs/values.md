@@ -1,8 +1,12 @@
+---
+sidebar: auto
+---
+
 # Values
 
 ## Mission
 
-We want to be the experts in training, designing and maintenance of container solutions in Spain.
+Our mission is to be experts in training, designing and maintenance of container solutions in Spain.
 
 ### Our Values
 

@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # How We Work
 
 ## Language
