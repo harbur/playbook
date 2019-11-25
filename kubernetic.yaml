@@ -1,11 +1,6 @@
 images:
-  - name: woven-computing-234012/harbur/playbook
-    path: docs/Dockerfile
+  - path: docs/Dockerfile
     context: docs
-    #tags:
-      #- ${GIT_BRANCH}
-      #- ${GIT_COMMIT_SHORT}
-      #- ${GIT_BRANCH}-${BUILD_NUMBER}
 releases:
   - name: playbook
     namespace: docs
