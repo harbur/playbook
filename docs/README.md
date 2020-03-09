@@ -41,3 +41,8 @@ Below you'll find the Table of Contents:
   [Vacations]: perks.md#vacations
   [Sick Leaves]: perks.md#sick-leaves
   [Holidays]: perks.md#holidays
+
+
+Employees also have access to our [internal docs]
+
+[internal docs]: docs.pro.harbur.io
