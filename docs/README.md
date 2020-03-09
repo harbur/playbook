@@ -43,6 +43,6 @@ Below you'll find the Table of Contents:
   [Holidays]: perks.md#holidays
 
 
-Employees also have access to our [internal docs]
+Employees also have access to our [internal docs].
 
 [internal docs]: https://docs.pro.harbur.io
