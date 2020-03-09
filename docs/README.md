@@ -45,4 +45,4 @@ Below you'll find the Table of Contents:
 
 Employees also have access to our [internal docs]
 
-[internal docs]: docs.pro.harbur.io
+[internal docs]: https://docs.pro.harbur.io
