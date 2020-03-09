@@ -92,15 +92,13 @@ The following is a list of the Core technologies we support:
 
 * [Docker]
 * [Kubernetes]
+* [Helm]
 * [AWS] & [GCP]
 
-The following is a list of Supporting technologies we've used and integrated:
-
-* Kafka
-* Redis
 
 [Docker]: https://docker.com
 [Kubernetes]: https://kubernetes.io
+[Helm]: https://helm.sh/
 [AWS]: https://aws.amazon.com
 [GCP]: https://cloud.google.com
 
