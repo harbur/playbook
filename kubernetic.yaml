@@ -1,7 +1,12 @@
 images:
   - path: docs/Dockerfile
     context: docs
+    tags:
+    - ${GIT_BRANCH}
+    - ${GIT_BRANCH}-${BUILD_NUMBER}
 releases:
   - name: playbook
     namespace: docs
     path: releases/playbook
+    set:
+    - image.tag=${GIT_BRANCH}-${BUILD_NUMBER}
