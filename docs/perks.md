@@ -39,21 +39,21 @@ In case of a sick leave fill out the [Sick Leaves Form] when you recover to regi
 
 ## Holidays
 
-The following 14 days are [Public Holidays 2019] in Catalonia:
+The following 14 days are [Public Holidays 2020] in Catalonia:
 
-* 1 de Enero.Año nuevo
-* 19 de Abril. Viernes Santo
-* 22 de Abril. Lunes de Pascua
-* 1 de Mayo. Día del trabajo
-* 10 de Junio. Pascua Granada
-* 24 de Junio. San Juan
-* 15 de Agosto. Asunción de la Virgen
-* 11 de Septiembre. Diada de Cataluña
-* 24 de Septiembre. La Mercè
-* 12 de Octubre. Fiesta Nacional Española
-* 1 de Noviembre.Día de Todos los Santos
-* 6 de Diciembre. Día de la Constitución Española
-* 25 de Diciembre. Natividad del Señor
-* 26 de Diciembre. Sant Esteve
+* 1 January: New Years's Day (Nat)
+* 6 January: Epiphany / Three Kings’ Day (NAT)
+* 10 April: Good Friday(NAT)
+* 13 April: Easter Monday (CAT)
+* 1 May Labour Day (NAT)
+* 1 June Whit Monday / Pentecost Monday (L)
+* 24 June Midsummer's Day / St John’s Day(CAT)
+* 15 August: Feast of the Assumption (NAT)
+* 11 September Catalan National Day (CAT)
+* 24 September La Mercè (L)
+* 12 October Spanish National Holiday (NAT)
+* 8 December Feast of the Assumption (NAT)
+* 25 December Christmas (NAT)
+* 26 December Boxing Day / St Stephen's Day (CAT)
 
-[Public Holidays 2019]: http://www.calendarioslaborales.com/calendario-laboral-barcelona-2019.htm
+[Public Holidays 2020]: https://ajuntament.barcelona.cat/calendarifestius/en/
