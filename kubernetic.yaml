@@ -3,10 +3,7 @@ images:
     context: docs
     tags:
     - ${GIT_BRANCH}
-    - ${GIT_BRANCH}-${BUILD_NUMBER}
-releases:
-  - name: playbook
+rollouts:
+  - resource: deployment/playbook
     namespace: docs
-    path: releases/playbook
-    set:
-    - image.tag=${GIT_BRANCH}-${BUILD_NUMBER}
+    branch: master
