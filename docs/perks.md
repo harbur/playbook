@@ -39,21 +39,21 @@ In case of a sick leave fill out the [Sick Leaves Form] when you recover to regi
 
 ## Holidays
 
-The following 14 days are [Public Holidays 2020] in Catalonia:
+The following 14 days are [Public Holidays 2021] in Catalonia:
 
-* 1 January: New Years's Day (Nat)
-* 6 January: Epiphany / Three Kings’ Day (NAT)
-* 10 April: Good Friday(NAT)
-* 13 April: Easter Monday (CAT)
+* 1 January New Years's Day (NAT)
+* 6 January Epiphany / Three Kings’ Day (NAT)
+* 2 April Good Friday(NAT)
+* 5 April Easter Monday (CAT)
 * 1 May Labour Day (NAT)
-* 1 June Whit Monday / Pentecost Monday (L)
+* 24 May Whit Monday / Pentecost Monday (L)
 * 24 June Midsummer's Day / St John’s Day(CAT)
-* 15 August: Feast of the Assumption (NAT)
 * 11 September Catalan National Day (CAT)
 * 24 September La Mercè (L)
 * 12 October Spanish National Holiday (NAT)
+* 1 November All Saints' Day (NAT)
+* 6 December Spanish Constitution Day (NAT)
 * 8 December Feast of the Assumption (NAT)
 * 25 December Christmas (NAT)
-* 26 December Boxing Day / St Stephen's Day (CAT)
 
-[Public Holidays 2020]: https://ajuntament.barcelona.cat/calendarifestius/en/
+[Public Holidays 2021]: https://ajuntament.barcelona.cat/calendarifestius/en/
