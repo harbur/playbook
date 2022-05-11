@@ -24,7 +24,9 @@ ingress:
   paths:
     - /
   hosts:
-    - docs.harbur.io
+    - host: docs.harbur.io
+      paths: 
+        - path: /
   tls:
    - secretName: docs.harbur.io-tls
      hosts:
