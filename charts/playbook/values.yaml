@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   pullPolicy: Always
-  repository: eu.gcr.io/woven-computing-234012/harbur/playbook
+  repository: ghcr.io/harbur/playbook:master
   tag: master
 
 nameOverride: ""
