@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # Perks
 
 ## Personal Growth Budget

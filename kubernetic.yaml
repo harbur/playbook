@@ -1,9 +1,0 @@
-images:
-  - path: docs/Dockerfile
-    context: docs
-    tags:
-    - ${GIT_BRANCH}
-rollouts:
-  - resource: deployment/playbook
-    namespace: docs
-    branch: master
