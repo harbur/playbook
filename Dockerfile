@@ -1,8 +1,14 @@
-FROM node:alpine as build
-RUN npm install -g vuepress http-server
+FROM node:alpine AS build
+
 WORKDIR /app
-COPY docs /app
-RUN vuepress build
+ENV NODE_OPTIONS=--openssl-legacy-provider
+
+COPY package.json yarn.lock /app/
+RUN yarn
+
+COPY . /app
+RUN yarn build
 
 FROM nginx:alpine
-COPY --from=build /app/.vuepress/dist /usr/share/nginx/html/
+EXPOSE 80
+COPY --from=build /app/docs/.vuepress/dist /usr/share/nginx/html/
