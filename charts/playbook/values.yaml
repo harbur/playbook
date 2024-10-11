@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   pullPolicy: Always
-  repository: ghcr.io/harbur/playbook:master
+  repository: ghcr.io/harbur/playbook
   tag: master
 
 nameOverride: ""
