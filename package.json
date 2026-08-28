@@ -3,18 +3,31 @@
   "version": "1.0.0",
   "description": "Harbur Playbook",
   "license": "MIT",
-  "type": "module",
+  "private": true,
   "scripts": {
-    "build": "vuepress build docs",
-    "clean-dev": "vuepress dev docs --clean-cache",
-    "dev": "vuepress dev docs",
-    "update-package": "pnpm dlx vp-update"
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start",
+    "types:check": "fumadocs-mdx && next typegen && tsc --noEmit",
+    "postinstall": "fumadocs-mdx"
+  },
+  "dependencies": {
+    "fumadocs-core": "16.15.1",
+    "fumadocs-mdx": "15.3.1",
+    "fumadocs-ui": "16.15.1",
+    "lucide-react": "^1.0.0",
+    "next": "16.3.3",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "^2.0.0-rc.28",
-    "@vuepress/theme-default": "^2.0.0-rc.128",
-    "sass": "^1.79.4",
-    "vue": "^3.4.0",
-    "vuepress": "^2.0.0-rc.28"
+    "@tailwindcss/postcss": "^4.3.0",
+    "@types/mdx": "^2.0.13",
+    "@types/node": "^26.0.0",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.3.0",
+    "typescript": "^7.0.0"
   }
 }
