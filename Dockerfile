@@ -6,7 +6,7 @@ FROM node:24-alpine AS base
 FROM oven/bun:1.4.0 AS deps
 WORKDIR /app
 
-COPY package.json bun.lock* source.config.ts ./
+COPY package.json bun.lock* source.config.ts next.config.mjs ./
 RUN bun install
 
 # Rebuild the source code only when needed
