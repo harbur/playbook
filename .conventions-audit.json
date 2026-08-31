@@ -1,0 +1,18 @@
+{
+  "last_audited": "2026-08-31",
+  "skill_commit": "ec815081a2fe7eeb1e8377978617b6cf5eadccf7",
+  "proposed": [
+    {
+      "gap": "merge-ci-release-workflow",
+      "pr": null,
+      "status": "open",
+      "date": "2026-08-31"
+    }
+  ],
+  "open_gaps": [
+    "leaf-page-frontmatter-icon-field (frontmatter carries an `icon` key on every content/docs/*.mdx page; docs-writing says frontmatter is `title` only, sentence case, nothing else unless there is a real reason)",
+    "leaf-page-anatomy (about.mdx, onboarding.mdx, how-we-work.mdx, values.mdx, perks.mdx do not follow the docs-writing page anatomy: no Considerations/Best Practices section, no closing cross-link to a neighbouring topic)",
+    "root-index-toc-style (content/docs/index.mdx is a hand-maintained reference-link table of contents with duplicated per-section anchors instead of the fumadocs Cards/overview style used elsewhere in the docs-writing convention; root index is allowed to be a real overview page, but this format is fragile and drifts from the source pages it links into)"
+  ],
+  "clean": false
+}
