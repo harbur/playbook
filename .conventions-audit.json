@@ -4,7 +4,7 @@
   "proposed": [
     {
       "gap": "merge-ci-release-workflow",
-      "pr": null,
+      "pr": 31,
       "status": "open",
       "date": "2026-08-31"
     }
