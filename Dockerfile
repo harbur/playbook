@@ -3,14 +3,14 @@
 FROM node:24-alpine AS base
 
 # Install dependencies only when needed
-FROM oven/bun:1.4.0 AS deps
+FROM oven/bun:1.4.2 AS deps
 WORKDIR /app
 
 COPY package.json bun.lock* source.config.ts next.config.mjs ./
 RUN bun install
 
 # Rebuild the source code only when needed
-FROM oven/bun:1.4.0 AS builder
+FROM oven/bun:1.4.2 AS builder
 WORKDIR /app
 
 # Install git for lastModified dates in sitemap
